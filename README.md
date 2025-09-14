@@ -1,6 +1,3 @@
----
-
-```markdown
 # 🔐 JWT Basics with Node.js & Express
 
 This project demonstrates the **fundamentals of authentication and authorization** using **JWT (JSON Web Token)** in a Node.js + Express backend.  
