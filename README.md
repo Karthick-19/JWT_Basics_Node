@@ -139,6 +139,5 @@ Authorization: Bearer <your_token>
 📌 Learning Node.js, Express.js & authentication best practices
 🔗 [GitHub](https://github.com/Karthick-19)
 
-```
 
 ---
