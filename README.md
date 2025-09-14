@@ -4,7 +4,6 @@ This project demonstrates the **fundamentals of authentication and authorization
 
 It’s a simple but powerful example of how to implement **user login**, **protected routes**, and **middleware-based authentication** — a must-have skill for real-world backend systems.
 
----
 
 ## 🚀 Features
 - User login with mock/static user data
@@ -13,18 +12,14 @@ It’s a simple but powerful example of how to implement **user login**, **prote
 - Return meaningful error messages for unauthorized access
 - Environment variable management for security
 
----
-
 ## 🛠 Tech Stack
 - **Node.js** – JavaScript runtime
 - **Express.js** – Backend framework
 - **jsonwebtoken** – JWT token generation & verification
 - **dotenv** – Manage environment variables
 
----
 
 ## 📂 Project Structure
-```
 
 JWT\_Basics\_Node/
 │── middleware/        # Authentication middleware
@@ -34,9 +29,7 @@ JWT\_Basics\_Node/
 │── package.json
 │── README.md
 
-````
 
----
 
 ## ⚙️ Installation & Setup
 
@@ -44,7 +37,7 @@ JWT\_Basics\_Node/
    ```bash
    git clone https://github.com/Karthick-19/JWT_Basics_Node.git
    cd JWT_Basics_Node
-````
+
 
 2. **Install dependencies**
 
@@ -69,7 +62,6 @@ JWT\_Basics\_Node/
 
    API will be available at `http://localhost:5000`
 
----
 
 ## 📌 API Endpoints
 
